@@ -1,9 +1,9 @@
      body {
       background-color: green;
-      margin-inline: 100px;
       font-family: Arial, sans-serif;
       color: black;
       padding: 20px;
+      margin: 20px;
     }
 
     #stopwatch {
